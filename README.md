@@ -10,6 +10,8 @@ I'm following the Python programming course by Dimitris Psounis.
 
 [Python Course — YouTube Playlist](https://www.youtube.com/playlist?list=PLLMmbOLFy25Eohpgb_V3GWKdf8sL0Upvt)
 
+All exercises and solutions in this repository are part of my personal learning journey.
+
 ## 📂 Repository Structure
 
 Each lesson contains:
@@ -17,19 +19,21 @@ Each lesson contains:
 - **01Theory:** Code examples and concepts covered in the lessons.
 - **02HomeWork:** Exercises and my solutions.
 
-## 🎯 Goals
+- ## 🎯 Learning Goals
 
-- Build a strong foundation in Python.
-- Improve my problem-solving skills.
-- Learn Object-Oriented Programming.
-- Explore databases, REST APIs, and backend development.
-- Develop real-world projects using Python and FastAPI.
+- Build a solid foundation in Python.
+- Develop problem-solving and logical thinking skills.
+- Write clean, readable, and maintainable code.
+- Understand Object-Oriented Programming (OOP).
+- Practice coding through exercises and hands-on projects.
+- Learn Git and GitHub for version control.
+- Progress toward Backend Development and Software Engineering.
 
 ## 🛠️ Technologies
 
 - Python
 - Git & GitHub
-- VS Code / PyCharm
+- VS Code
 
 ---
 

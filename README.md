@@ -67,4 +67,4 @@ I also plan to build independent projects in separate repositories to apply what
 
 ---
 
-*Learning Python one lesson at a time.* 🐍
+*This repository is continuously updated as I progress through the course.*

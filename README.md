@@ -42,15 +42,6 @@ Python Course/
 
 All lessons follow the same structure to keep the repository consistent and easy to navigate.
 
-| Lesson | Topic | Status |
-|---|---|---|
-| 01 | Introduction to Python | ✅ |
-| 02 | Variables and Data Types | ✅ |
-| 03 | Conditional Statements | ✅ |
-| 04 | Lists | ✅ |
-
-*This table will be updated as I complete new lessons.*
-
 ## 🎯 Learning Goals
 
 - Build a strong foundation in Python programming.

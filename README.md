@@ -2,7 +2,7 @@
 
 Welcome to my Python learning repository!
 
-This repository documents my journey of learning Python, from the fundamentals to more advanced programming concepts, with the long-term goal of becoming a **Backend Developer / Software Engineer**.
+This repository documents my journey of learning Python, from the fundamentals to more advanced programming concepts.
 
 Here, I organize my course notes, practice exercises, and Python code as I progress through my studies.
 
@@ -58,12 +58,6 @@ All lessons follow the same structure to keep the repository consistent and easy
 - **Visual Studio Code** — Code editor
 - **Git** — Version control
 - **GitHub** — Repository hosting and progress tracking
-
-## 🚀 What's Next?
-
-As I continue learning, I plan to explore more advanced Python concepts, Object-Oriented Programming, databases, APIs, and backend development.
-
-I also plan to build independent projects in separate repositories to apply what I've learned.
 
 ---
 
